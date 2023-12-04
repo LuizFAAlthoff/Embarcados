@@ -1,5 +1,5 @@
 import mongoose from "mongoose";
-import Registro from "../models/registro";
+import Registro from "../models/registro.js";
 
 // função para adicionar registro
 

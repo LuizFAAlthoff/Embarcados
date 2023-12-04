@@ -1,7 +1,7 @@
 import express from "express";
 import mongoose from "mongoose";
 import dotenv from "dotenv";
-import registroRouter from "./routes/registro-routes.js";
+import registroRouter from "../backend/routes/registro-routes.js";
 import cors from "cors";
 
 

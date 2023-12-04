@@ -1,5 +1,5 @@
 import express from "express";
-import { addRegistro, getRegistros } from "../controllers/registro-controller";
+import { addRegistro, getRegistros } from "../controllers/registro-controller.js";
 
 const registroRouter = express.Router();
 
